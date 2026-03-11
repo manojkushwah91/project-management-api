@@ -5,5 +5,8 @@
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
   }
 }
