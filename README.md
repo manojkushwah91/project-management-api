@@ -300,7 +300,7 @@ After deployment, the API will be accessible via a public URL.
 
 # Example Deployment URL
 
-https://project-management-api.onrender.com
+[https://project-management-api.onrender.com](https://project-management-api-fr6n.onrender.com/)
 
 ---
 
